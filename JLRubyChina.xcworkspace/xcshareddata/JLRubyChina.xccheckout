@@ -5,15 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>59F95353-8F33-4534-B884-22EB2BE0316B</string>
+	<string>D75A804C-A93E-470C-8F33-D146A3F9CE79</string>
 	<key>IDESourceControlProjectName</key>
 	<string>JLRubyChina</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>231350F0-0F61-480C-8AAE-22F5E70BCCE7</key>
-		<string>https://github.com/azu/MarkdownSyntaxEditor.git</string>
-		<key>5FF662F2-2215-462A-9DD1-68130CEB014C</key>
-		<string>https://github.com/jimneylee/JLRubyChina-iPhone</string>
+		<key>31AFACA6-AE0B-4B91-BA5D-126F2586C56C</key>
+		<string>https://github.com/zzuwangfeng/JLRubyChina-iPhone.git</string>
+		<key>6CE1BCCC-7632-40F4-9285-1BAF7C2DDEC0</key>
+		<string>https://github.com/jimneylee/MarkdownSyntaxEditor.git</string>
+		<key>8E5A3AA6-39BA-4C0B-9A4D-2B573961F04F</key>
+		<string>https://github.com/gotosleep/JASidePanels.git</string>
+		<key>BEA72E3B-E41B-4B16-8289-6B2CD0A55FEA</key>
+		<string>https://github.com/jimneylee/TSEmojiView.git</string>
 		<key>C3B94360-57F8-4374-A8FB-B2C4E455E2C6</key>
 		<string>https://github.com/jimneylee/JLNimbusTimeline.git</string>
 	</dict>
@@ -21,21 +25,33 @@
 	<string>JLRubyChina.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>231350F0-0F61-480C-8AAE-22F5E70BCCE7</key>
-		<string>../vendor/MarkdownSyntaxEditor</string>
-		<key>5FF662F2-2215-462A-9DD1-68130CEB014C</key>
+		<key>31AFACA6-AE0B-4B91-BA5D-126F2586C56C</key>
 		<string>..</string>
+		<key>6CE1BCCC-7632-40F4-9285-1BAF7C2DDEC0</key>
+		<string>../vendor/MarkdownSyntaxEditor</string>
+		<key>8E5A3AA6-39BA-4C0B-9A4D-2B573961F04F</key>
+		<string>../vendor/JASidePanels</string>
+		<key>BEA72E3B-E41B-4B16-8289-6B2CD0A55FEA</key>
+		<string>../vendor/TSEmojiView</string>
 		<key>C3B94360-57F8-4374-A8FB-B2C4E455E2C6</key>
 		<string>../vendor/JLNimbusTimeline</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jimneylee/JLRubyChina-iPhone</string>
+	<string>https://github.com/zzuwangfeng/JLRubyChina-iPhone.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5FF662F2-2215-462A-9DD1-68130CEB014C</string>
+	<string>31AFACA6-AE0B-4B91-BA5D-126F2586C56C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8E5A3AA6-39BA-4C0B-9A4D-2B573961F04F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JASidePanels</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -48,7 +64,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5FF662F2-2215-462A-9DD1-68130CEB014C</string>
+			<string>31AFACA6-AE0B-4B91-BA5D-126F2586C56C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>JLRubyChina-iPhone</string>
 		</dict>
@@ -56,9 +72,17 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>231350F0-0F61-480C-8AAE-22F5E70BCCE7</string>
+			<string>6CE1BCCC-7632-40F4-9285-1BAF7C2DDEC0</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MarkdownSyntaxEditor</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEA72E3B-E41B-4B16-8289-6B2CD0A55FEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TSEmojiView</string>
 		</dict>
 	</array>
 </dict>
